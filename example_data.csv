@@ -1,0 +1,29 @@
+team,author,role,contribution
+Team A,A1,Conceptualization,0
+Team A,A1,Data curation,1
+Team A,A1,Writing,0
+Team A,A1,Validation,1
+Team A,A2,Conceptualization,0
+Team A,A2,Data curation,1
+Team A,A2,Writing,0
+Team A,A2,Validation,1
+Team A,A3,Conceptualization,1
+Team A,A3,Data curation,0
+Team A,A3,Writing,0
+Team A,A3,Validation,1
+Team A,A4,Conceptualization,1
+Team A,A4,Data curation,0
+Team A,A4,Writing,1
+Team A,A4,Validation,0
+Team B,B1,Supervision,1
+Team B,B1,Investigation,0
+Team B,B1,Writing,1
+Team B,B2,Supervision,1
+Team B,B2,Investigation,1
+Team B,B2,Writing,0
+Team B,B3,Supervision,1
+Team B,B3,Investigation,0
+Team B,B3,Writing,0
+Team B,B4,Supervision,1
+Team B,B4,Investigation,1
+Team B,B4,Writing,0
