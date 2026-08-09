@@ -21,7 +21,7 @@ The repository is organized as follows:
 
 ```text
 .
-├── [main_script.py]
+├── [tfidf_example.py]
 ├── [example_data.csv]
 ├── [requirements.txt]
 └── README.md
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 After installing the required dependencies, run:
 
 ```bash
-python [main_script.py]
+python [tfidf_example.py]
 ```
 
 The script reads the example contribution data and calculates the corresponding TF-IDF-based contribution measures.
